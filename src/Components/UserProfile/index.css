@@ -1,0 +1,17 @@
+.user-card-container{
+    display: flex;
+    font-family: Roboto;
+
+}
+.avatar{
+    width: 48px;
+    height: 48px;
+    border-radius: 24px;
+}
+.text{
+    color: black;
+    font-size: 25px;
+}
+.user-card-desc{
+    font-size: 20px;
+}
